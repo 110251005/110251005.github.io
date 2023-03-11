@@ -1,0 +1,17 @@
+body {
+    font-family: Arial;
+    background-color: rgba(204, 213, 235, 0.678);
+}
+.content{
+    background-color: #10114b;
+    width:300px;
+    padding:40px;
+    position:absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    color:rgb(253, 253, 253);
+}
+.content h1{
+    text-transform: uppercase; /*大寫*/
+}
